@@ -1,6 +1,6 @@
-### Stationary Invertory Management System <br>
+### Stationary Inventory Management System <br>
 
-The compelete **Stationary Invertory Management System** is built using python json file. Inventory consists of 30 stationary items and each item has following attributes:
+The complete **Stationary Inventory Management System** is built using python json file. Inventory consists of 30 stationary items and each item has following attributes:
 having 5 attributes namely:<br>
 ```
 1. Name

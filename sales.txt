@@ -1,0 +1,2 @@
+name : Marker Pen , price : 100 ,saled product : 5 ,individual amount : 500 ,time : 2021-09-06 13:17:32.474902 
+name : Whitener , price : 100 ,saled product : 3 ,individual amount : 300 ,time : 2021-09-06 13:17:43.194025 
